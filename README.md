@@ -1,7 +1,7 @@
 Please consider the below factors while contributing
 
 Code Style:
-4.Maintain a consistent code style for readability.
+Maintain a consistent code style for readability.
 	
 Documentation:
 Ensure well-documented code for effective collaboration.
